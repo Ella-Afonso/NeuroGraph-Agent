@@ -1,6 +1,5 @@
 # Screenshots
 
-Place dashboard screenshot PNG files here:
 **DashBoard Overview**
 <img width="1887" height="862" alt="image" src="https://github.com/user-attachments/assets/692053d4-5926-4749-ab68-a916f7e109df" />
 
