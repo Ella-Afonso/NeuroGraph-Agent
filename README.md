@@ -402,8 +402,6 @@ NeuroGraph Agent was designed and built as an end-to-end research intelligence p
 The project was built in Python, without proprietary tools, paid APIs, or LLM assistance in evidence generation.
 
 ---
-
-*NeuroGraph Agent — Research intelligence prototype. Not clinical decision support.*
 =======
 # NeuroGraph-Agent
 An Agentic Research System for Neurodegenerative Disease Discovery
