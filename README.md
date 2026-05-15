@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # NeuroGraph Agent
 ### Agentic Biomedical Research Intelligence for Alzheimer's Disease
 
@@ -20,7 +19,7 @@
 
 ## Live Demo
 
-**[Launch the Streamlit Dashboard →](PASTE_STREAMLIT_LINK_HERE)**
+**[Launch the Streamlit Dashboard →](https://neurograph-research-agent.streamlit.app//) )**
 
 Explore the dashboard to:
 - Browse and filter 499 scored Alzheimer's disease targets
@@ -29,25 +28,6 @@ Explore the dashboard to:
 - Inspect individual target evidence cards with full provenance
 - Explore the knowledge graph and theme landscape
 - Download processed data, reports, and evidence briefs
-
----
-
-## Screenshots
-
-### Dashboard Overview
-![Dashboard Overview](assets/screenshots/dashboard_overview.png)
-
-### Gap Candidates
-![Gap Candidates](assets/screenshots/gap_candidates.png)
-
-### Target Explorer — Evidence Card
-![Target Explorer](assets/screenshots/target_explorer.png)
-
-### Evidence Cards Page
-![Evidence Cards](assets/screenshots/evidence_cards.png)
-
-### Knowledge Graph Explorer
-![Knowledge Graph](assets/screenshots/knowledge_graph.png)
 
 ---
 
@@ -427,4 +407,3 @@ The project was built in Python, without proprietary tools, paid APIs, or LLM as
 =======
 # NeuroGraph-Agent
 An Agentic Research System for Neurodegenerative Disease Discovery
->>>>>>> 9fe67f9da0d18fb3fa95ce2bb21c2a98bc1120b0
