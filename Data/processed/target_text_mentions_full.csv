@@ -1,0 +1,500 @@
+target_id,approved_symbol,approved_name,biotype,association_score,literature_mentions,trial_mentions,literature_documents_mentioned,trial_documents_mentioned,literature_to_trial_gap_signal,symbol_ambiguity_flag,mention_match_quality,text_coverage_status
+ENSG00000142192,APP,amyloid beta precursor protein,protein_coding,0.8696695516607333,25,76,16,28,-51,moderate,moderate_ambiguity_review,checked_with_mentions
+ENSG00000080815,PSEN1,presenilin 1,protein_coding,0.8663337248746705,3,6,3,3,-3,low,reliable,checked_with_mentions
+ENSG00000143801,PSEN2,presenilin 2,protein_coding,0.8165198525554955,1,1,1,1,0,low,reliable,checked_with_mentions
+ENSG00000130203,APOE,apolipoprotein E,protein_coding,0.7749432033461633,70,21,23,12,49,low,reliable,checked_with_mentions
+ENSG00000176884,GRIN1,glutamate ionotropic receptor NMDA type subunit 1,protein_coding,0.7000358051327009,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000137642,SORL1,sortilin related receptor 1,protein_coding,0.6887135105146187,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000137845,ADAM10,ADAM metallopeptidase domain 10,protein_coding,0.6816636553816533,1,0,1,0,1,low,reliable,checked_with_mentions
+ENSG00000164885,CDK5,cyclin dependent kinase 5,protein_coding,0.6800338890220147,2,0,2,0,2,low,reliable,checked_with_mentions
+ENSG00000116032,GRIN3B,glutamate ionotropic receptor NMDA type subunit 3B,protein_coding,0.66936011916202,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000159640,ACE,angiotensin I converting enzyme,protein_coding,0.6341919427542662,1,4,1,1,-3,moderate,moderate_ambiguity_review,checked_with_mentions
+ENSG00000087085,ACHE,acetylcholinesterase (Yt blood group),protein_coding,0.6286789001536538,7,2,3,1,5,low,reliable,checked_with_mentions
+ENSG00000273079,GRIN2B,glutamate ionotropic receptor NMDA type subunit 2B,protein_coding,0.6274063661175356,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000114200,BCHE,butyrylcholinesterase,protein_coding,0.6272161725827728,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000183454,GRIN2A,glutamate ionotropic receptor NMDA type subunit 2A,protein_coding,0.6151782725819345,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000105464,GRIN2D,glutamate ionotropic receptor NMDA type subunit 2D,protein_coding,0.6136111345949934,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000198785,GRIN3A,glutamate ionotropic receptor NMDA type subunit 3A,protein_coding,0.6101241550231941,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000138613,APH1B,aph-1B gamma-secretase subunit,protein_coding,0.6090250464013078,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000161509,GRIN2C,glutamate ionotropic receptor NMDA type subunit 2C,protein_coding,0.6083962283415625,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000176749,CDK5R1,cyclin dependent kinase 5 regulatory subunit 1,protein_coding,0.6074662113403846,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000010704,HFE,homeostatic iron regulator,protein_coding,0.6048602773233976,0,0,0,0,0,moderate,not_detected,checked_zero_mentions
+ENSG00000101224,CDC25B,cell division cycle 25B,protein_coding,0.5985275901516723,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000203710,CR1,complement C3b/C4b receptor 1 (Knops blood group),protein_coding,0.5926783768207446,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000274286,ADRA2B,adrenoceptor alpha 2B,protein_coding,0.5914859782379777,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000113161,HMGCR,3-hydroxy-3-methylglutaryl-CoA reductase,protein_coding,0.584711381261442,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000105383,CD33,CD33 molecule,protein_coding,0.5818249181893902,6,0,1,0,6,low,reliable,checked_with_mentions
+ENSG00000030582,GRN,granulin precursor,protein_coding,0.5810506372714668,0,0,0,0,0,moderate,not_detected,checked_zero_mentions
+ENSG00000146904,EPHA1,EPH receptor A1,protein_coding,0.580575990464643,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000118689,FOXO3,forkhead box O3,protein_coding,0.5736355541079968,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000095970,TREM2,triggering receptor expressed on myeloid cells 2,protein_coding,0.5721845302600777,56,0,10,0,56,low,reliable,checked_with_mentions
+ENSG00000064687,ABCA7,ATP binding cassette subfamily A member 7,protein_coding,0.5653009027165964,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000004779,NDUFAB1,NADH:ubiquinone oxidoreductase subunit AB1,protein_coding,0.5608605760909913,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000120885,CLU,clusterin,protein_coding,0.5557063381395116,2,0,2,0,2,moderate,moderate_ambiguity_review,checked_with_mentions
+ENSG00000136717,BIN1,bridging integrator 1,protein_coding,0.5547057890274468,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000142319,SLC6A3,solute carrier family 6 member 3,protein_coding,0.5539395717319444,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000082701,GSK3B,glycogen synthase kinase 3 beta,protein_coding,0.5534786397885884,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000147883,CDKN2B,cyclin dependent kinase inhibitor 2B,protein_coding,0.5531421294534669,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000197943,PLCG2,phospholipase C gamma 2,protein_coding,0.55138545916762,1,0,1,0,1,low,reliable,checked_with_mentions
+ENSG00000124762,CDKN1A,cyclin dependent kinase inhibitor 1A,protein_coding,0.5503043842101816,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000071051,NCK2,NCK adaptor protein 2,protein_coding,0.5487826684396903,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000197746,PSAP,prosaposin,protein_coding,0.5479043693118749,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000166851,PLK1,polo like kinase 1,protein_coding,0.5419833466167745,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000135446,CDK4,cyclin dependent kinase 4,protein_coding,0.5419430517035931,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000166311,SMPD1,sphingomyelin phosphodiesterase 1,protein_coding,0.5416821779169125,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000110077,MS4A6A,membrane spanning 4-domains A6A,protein_coding,0.5383166652061998,1,0,1,0,1,low,reliable,checked_with_mentions
+ENSG00000073060,SCARB1,scavenger receptor class B member 1,protein_coding,0.5345305649908763,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000167601,AXL,AXL receptor tyrosine kinase,protein_coding,0.5344078071045751,0,0,0,0,0,moderate,not_detected,checked_zero_mentions
+ENSG00000168653,NDUFS5,NADH:ubiquinone oxidoreductase subunit S5,protein_coding,0.5339588476632112,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000178394,HTR1A,5-hydroxytryptamine receptor 1A,protein_coding,0.5290229308192081,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000178999,AURKB,aurora kinase B,protein_coding,0.5287759633031683,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000119421,NDUFA8,NADH:ubiquinone oxidoreductase subunit A8,protein_coding,0.5284709157316196,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000178127,NDUFV2,NADH:ubiquinone oxidoreductase core subunit V2,protein_coding,0.5277532415855091,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000164167,LSM6,"LSM6 homolog, U6 small nuclear RNA and mRNA degradation associated",protein_coding,0.5268771472813407,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000100330,MTMR3,myotubularin related protein 3,protein_coding,0.5262820110553627,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000103546,SLC6A2,solute carrier family 6 member 2,protein_coding,0.5253338035950694,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000147889,CDKN2A,cyclin dependent kinase inhibitor 2A,protein_coding,0.5252849051254936,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000129757,CDKN1C,cyclin dependent kinase inhibitor 1C,protein_coding,0.5250486731811728,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000170312,CDK1,cyclin dependent kinase 1,protein_coding,0.5248755708356222,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000058729,RIOK2,RIO kinase 2,protein_coding,0.5244154452261425,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000149295,DRD2,dopamine receptor D2,protein_coding,0.5239248574008657,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000023228,NDUFS1,NADH:ubiquinone oxidoreductase core subunit S1,protein_coding,0.5232633839227692,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000198563,DDX39B,DExD-box helicase 39B,protein_coding,0.5222917544590315,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000147416,ATP6V1B2,ATPase H+ transporting V1 subunit B2,protein_coding,0.5211752723946863,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000073921,PICALM,phosphatidylinositol binding clathrin assembly protein,protein_coding,0.5190691988271273,1,0,1,0,1,low,reliable,checked_with_mentions
+ENSG00000198087,CD2AP,CD2 associated protein,protein_coding,0.5188400429995826,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000010256,UQCRC1,ubiquinol-cytochrome c reductase core protein 1,protein_coding,0.5183860713313272,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000114573,ATP6V1A,ATPase H+ transporting V1 subunit A,protein_coding,0.5182959504544525,1,0,1,0,1,low,reliable,checked_with_mentions
+ENSG00000184160,ADRA2C,adrenoceptor alpha 2C,protein_coding,0.5163074785207125,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000087586,AURKA,aurora kinase A,protein_coding,0.5155270888510811,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000150594,ADRA2A,adrenoceptor alpha 2A,protein_coding,0.5118463597412175,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000005381,MPO,myeloperoxidase,protein_coding,0.5117547282373773,0,0,0,0,0,moderate,not_detected,checked_zero_mentions
+ENSG00000158864,NDUFS2,NADH:ubiquinone oxidoreductase core subunit S2,protein_coding,0.5110539411128694,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000087589,CASS4,Cas scaffold protein family member 4,protein_coding,0.5104872560249373,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000165646,SLC18A2,solute carrier family 18 member A2,protein_coding,0.5094579284886787,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000115020,PIKFYVE,"phosphoinositide kinase, FYVE-type zinc finger containing",protein_coding,0.5089489781100042,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000164615,CAMLG,calcium modulating ligand,protein_coding,0.5075988192398417,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000139180,NDUFA9,NADH:ubiquinone oxidoreductase subunit A9,protein_coding,0.5062203596018111,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000103510,KAT8,lysine acetyltransferase 8,protein_coding,0.5057098773322191,1,0,1,0,1,low,reliable,checked_with_mentions
+ENSG00000131408,NR1H2,nuclear receptor subfamily 1 group H member 2,protein_coding,0.5047494233888233,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000113712,CSNK1A1,casein kinase 1 alpha 1,protein_coding,0.5040365578291959,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000023516,AKAP11,A-kinase anchoring protein 11,protein_coding,0.5030645574681958,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000143374,TARS2,"threonyl-tRNA synthetase 2, mitochondrial",protein_coding,0.5030392466541774,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000120539,MASTL,microtubule associated serine/threonine kinase like,protein_coding,0.5030392466541774,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000155097,ATP6V1C1,ATPase H+ transporting V1 subunit C1,protein_coding,0.5029313970500541,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000134824,FADS2,fatty acid desaturase 2,protein_coding,0.5017930585581221,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000167258,CDK12,cyclin dependent kinase 12,protein_coding,0.5016300431916646,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000164733,CTSB,cathepsin B,protein_coding,0.5013866040818838,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000143393,PI4KB,phosphatidylinositol 4-kinase beta,protein_coding,0.4993421627252597,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000099795,NDUFB7,NADH:ubiquinone oxidoreductase subunit B7,protein_coding,0.4981214124775582,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000139505,MTMR6,myotubularin related protein 6,protein_coding,0.4976720716320659,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000184845,DRD1,dopamine receptor D1,protein_coding,0.4964918626381651,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000180596,H2BC4,H2B clustered histone 4,protein_coding,0.4953245841496741,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000141510,TP53,tumor protein p53,protein_coding,0.4951213066941584,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000198793,MTOR,mechanistic target of rapamycin kinase,protein_coding,0.4937230577264579,3,0,3,0,3,low,reliable,checked_with_mentions
+ENSG00000130294,KIF1A,kinesin family member 1A,protein_coding,0.4934775830034178,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000204386,NEU1,neuraminidase 1,protein_coding,0.4886089952304533,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000114026,OGG1,8-oxoguanine DNA glycosylase,protein_coding,0.4877648235381816,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000051382,PIK3CB,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta",protein_coding,0.4868782401418179,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000163513,TGFBR2,transforming growth factor beta receptor 2,protein_coding,0.4830083848043395,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000165733,BMS1,BMS1 ribosome biogenesis factor,protein_coding,0.4824617197451569,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000176444,CLK2,CDC like kinase 2,protein_coding,0.4823993150445137,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000094755,GABRP,gamma-aminobutyric acid type A receptor subunit pi,protein_coding,0.4814067067058774,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000099194,SCD,stearoyl-CoA desaturase,protein_coding,0.4806305565235538,6,9,2,5,-3,moderate,moderate_ambiguity_review,checked_with_mentions
+ENSG00000151577,DRD3,dopamine receptor D3,protein_coding,0.4803842725140399,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000184967,NOC4L,nucleolar complex associated 4 homolog,protein_coding,0.4791090291238817,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000082898,XPO1,exportin 1,protein_coding,0.4783128590683893,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000042753,AP2S1,adaptor related protein complex 2 subunit sigma 1,protein_coding,0.4773971596481343,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000069696,DRD4,dopamine receptor D4,protein_coding,0.4771217441322876,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000140090,SLC24A4,solute carrier family 24 member 4,protein_coding,0.4770198056518296,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000168918,INPP5D,inositol polyphosphate-5-phosphatase D,protein_coding,0.4769343857371123,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000179526,SHARPIN,SHANK associated RH domain interactor,protein_coding,0.4765564735652801,1,0,1,0,1,low,reliable,checked_with_mentions
+ENSG00000106799,TGFBR1,transforming growth factor beta receptor 1,protein_coding,0.4750378558173373,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000075785,RAB7A,"RAB7A, member RAS oncogene family",protein_coding,0.474824686168203,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000196396,PTPN1,protein tyrosine phosphatase non-receptor type 1,protein_coding,0.4733977341165619,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000141367,CLTC,clathrin heavy chain,protein_coding,0.4728858568785419,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000131238,PPT1,palmitoyl-protein thioesterase 1,protein_coding,0.4728154732398079,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000067533,RRP15,ribosomal RNA processing 15 homolog,protein_coding,0.4726977086145429,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000146090,RASGEF1C,RasGEF domain family member 1C,protein_coding,0.4703869592573467,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000110717,NDUFS8,NADH:ubiquinone oxidoreductase core subunit S8,protein_coding,0.4697485888989902,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000119616,FCF1,FCF1 rRNA-processing protein,protein_coding,0.4690379000231848,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000147684,NDUFB9,NADH:ubiquinone oxidoreductase subunit B9,protein_coding,0.4688652507665982,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000204569,PPP1R10,protein phosphatase 1 regulatory subunit 10,protein_coding,0.4686893597488367,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000128609,NDUFA5,NADH:ubiquinone oxidoreductase subunit A5,protein_coding,0.4685556494443896,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000196743,GM2A,ganglioside GM2 activator,protein_coding,0.4684157194612444,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000161203,AP2M1,adaptor related protein complex 2 subunit mu 1,protein_coding,0.4681822308224015,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000149084,HSD17B12,hydroxysteroid 17-beta dehydrogenase 12,protein_coding,0.467993063220509,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000151366,NDUFC2,NADH:ubiquinone oxidoreductase subunit C2,protein_coding,0.4670283129077943,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000122218,COPA,coat protein complex I subunit alpha,protein_coding,0.466345507639121,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000159140,SON,SON DNA and RNA binding protein,protein_coding,0.4651528457924181,0,0,0,0,0,moderate,not_detected,checked_zero_mentions
+ENSG00000181789,COPG1,coat protein complex I subunit gamma 1,protein_coding,0.464992191482808,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000106460,TMEM106B,transmembrane protein 106B,protein_coding,0.4647701043432878,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000102900,NUP93,nucleoporin 93,protein_coding,0.4645497293282128,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000115524,SF3B1,splicing factor 3b subunit 1,protein_coding,0.4644398507441357,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000278540,ACACA,acetyl-CoA carboxylase alpha,protein_coding,0.4642189930950091,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000138756,BMP2K,BMP2 inducible kinase,protein_coding,0.4641007425409068,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000145675,PIK3R1,phosphoinositide-3-kinase regulatory subunit 1,protein_coding,0.4640863798250131,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000103174,NAGPA,N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase,protein_coding,0.4638903158507464,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000100028,SNRPD3,small nuclear ribonucleoprotein D3 polypeptide,protein_coding,0.4638227176293007,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000112159,MDN1,midasin AAA ATPase 1,protein_coding,0.4634832506063762,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000125686,MED1,mediator complex subunit 1,protein_coding,0.4634711034619965,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000065328,MCM10,minichromosome maintenance 10 replication initiation factor,protein_coding,0.4633607428109449,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000184983,NDUFA6,NADH:ubiquinone oxidoreductase subunit A6,protein_coding,0.4632818477780767,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000186185,KIF18B,kinesin family member 18B,protein_coding,0.4632221503654381,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000111481,COPZ1,coat protein complex I subunit zeta 1,protein_coding,0.4630929331463163,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000112335,SNX3,sorting nexin 3,protein_coding,0.4630701093196636,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000064419,TNPO3,transportin 3,protein_coding,0.4630322273845584,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000129083,COPB1,coat protein complex I subunit beta 1,protein_coding,0.4629911629562602,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000119285,HEATR1,HEAT repeat containing 1,protein_coding,0.462898767992589,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000184432,COPB2,coat protein complex I subunit beta 2,protein_coding,0.462898767992589,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000133059,DSTYK,dual serine/threonine and tyrosine protein kinase,protein_coding,0.462898767992589,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000010244,ZNF207,zinc finger protein 207,protein_coding,0.462898767992589,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000006712,PAF1,PAF1 component of Paf1/RNA polymerase II complex,protein_coding,0.4628122530463495,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000157020,SEC13,"SEC13 homolog, nuclear pore and COPII component",protein_coding,0.4627139780652466,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000150990,DHX37,DEAH-box helicase 37,protein_coding,0.4626215831015755,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000168297,PXK,PX domain containing serine/threonine kinase like,protein_coding,0.462590500523488,0,0,0,0,0,moderate,not_detected,checked_zero_mentions
+ENSG00000158615,PPP1R15B,protein phosphatase 1 regulatory subunit 15B,protein_coding,0.4623443982105619,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000177971,IMP3,IMP U3 small nucleolar ribonucleoprotein 3,protein_coding,0.4619748183558772,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000109111,SUPT6H,"SPT6 homolog, histone chaperone and transcription elongation factor",protein_coding,0.4619748183558772,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000171566,PLRG1,pleiotropic regulator 1,protein_coding,0.4619748183558772,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000182004,SNRPE,small nuclear ribonucleoprotein polypeptide E,protein_coding,0.4619748183558772,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000048162,NOP16,NOP16 nucleolar protein,protein_coding,0.4619748183558772,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000135521,LTV1,LTV1 ribosome biogenesis factor,protein_coding,0.4619748183558772,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000130810,PPAN,peter pan homolog,protein_coding,0.4619748183558772,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000163719,MTMR14,myotubularin related protein 14,protein_coding,0.4619748183558772,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000155561,NUP205,nucleoporin 205,protein_coding,0.4619748183558772,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000123384,LRP1,LDL receptor related protein 1,protein_coding,0.4618482608684721,1,0,1,0,1,low,reliable,checked_with_mentions
+ENSG00000073712,FERMT2,FERM domain containing kindlin 2,protein_coding,0.4616617934842458,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000120899,PTK2B,protein tyrosine kinase 2 beta,protein_coding,0.4614475449874801,1,0,1,0,1,low,reliable,checked_with_mentions
+ENSG00000167815,PRDX2,peroxiredoxin 2,protein_coding,0.460568664371186,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000198554,WDHD1,WD repeat and HMG-box DNA binding protein 1,protein_coding,0.4598018260294176,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000086189,DIMT1,DIM1 rRNA methyltransferase and ribosome maturation factor,protein_coding,0.4585183207363117,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000117411,B4GALT2,"beta-1,4-galactosyltransferase 2",protein_coding,0.4579725558921829,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000198888,MT-ND1,mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 1,protein_coding,0.4574563770686376,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000062598,ELMO2,engulfment and cell motility 2,protein_coding,0.4560426660377425,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000107862,GBF1,golgi brefeldin A resistant guanine nucleotide exchange factor 1,protein_coding,0.4553786701053179,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000137876,RSL24D1,ribosomal L24 domain containing 1,protein_coding,0.454607398421626,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000188428,BLOC1S5,biogenesis of lysosomal organelles complex 1 subunit 5,protein_coding,0.4543078885741159,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000127947,PTPN12,protein tyrosine phosphatase non-receptor type 12,protein_coding,0.454225041613811,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000132842,AP3B1,adaptor related protein complex 3 subunit beta 1,protein_coding,0.4540519817613574,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000109270,LAMTOR3,"late endosomal/lysosomal adaptor, MAPK and MTOR activator 3",protein_coding,0.4534566497001587,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000109606,DHX15,DEAH-box helicase 15,protein_coding,0.4522231035939754,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000100241,SBF1,SET binding factor 1,protein_coding,0.4519351344543852,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000163399,ATP1A1,ATPase Na+/K+ transporting subunit alpha 1,protein_coding,0.451212480049824,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000153814,JAZF1,JAZF zinc finger 1,protein_coding,0.4509725220657329,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000125743,SNRPD2,small nuclear ribonucleoprotein D2 polypeptide,protein_coding,0.4500670742552721,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000109390,NDUFC1,NADH:ubiquinone oxidoreductase subunit C1,protein_coding,0.449435129524411,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000134463,ECHDC3,enoyl-CoA hydratase domain containing 3,protein_coding,0.4487633650003666,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000141499,WRAP53,WD repeat containing antisense to TP53,protein_coding,0.4486477754083084,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000160551,TAOK1,TAO kinase 1,protein_coding,0.4483204068100044,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000167792,NDUFV1,NADH:ubiquinone oxidoreductase core subunit V1,protein_coding,0.4478003542604742,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000167447,SMG8,SMG8 nonsense mediated mRNA decay factor,protein_coding,0.4471290290115444,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000085514,PILRA,paired immunoglobin like type 2 receptor alpha,protein_coding,0.446425426458706,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000205339,IPO7,importin 7,protein_coding,0.4454416451870511,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000180530,NRIP1,nuclear receptor interacting protein 1,protein_coding,0.4447686096151935,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000156471,PTDSS1,phosphatidylserine synthase 1,protein_coding,0.4438498804381088,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000157368,IL34,interleukin 34,protein_coding,0.4419147209240727,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000065518,NDUFB4,NADH:ubiquinone oxidoreductase subunit B4,protein_coding,0.4398199662549898,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000145604,SKP2,S-phase kinase associated protein 2,protein_coding,0.4375669089055466,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000137275,RIPK1,receptor interacting serine/threonine kinase 1,protein_coding,0.4374567698195933,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000165029,ABCA1,ATP binding cassette subfamily A member 1,protein_coding,0.4368866031626134,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000108798,ABI3,ABI family member 3,protein_coding,0.4368560009612777,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000104549,SQLE,squalene epoxidase,protein_coding,0.4367586642314331,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000181467,RAP2B,"RAP2B, member of RAS oncogene family",protein_coding,0.4365547280618806,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000181029,TRAPPC5,trafficking protein particle complex subunit 5,protein_coding,0.4347519295921756,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000152904,GGPS1,geranylgeranyl diphosphate synthase 1,protein_coding,0.4347443340030078,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000134853,PDGFRA,platelet derived growth factor receptor alpha,protein_coding,0.4344196262566399,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000104043,ATP8B4,ATPase phospholipid transporting 8B4 (putative),protein_coding,0.4338584595907351,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000179218,CALR,calreticulin,protein_coding,0.4298642185878049,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000130202,NECTIN2,nectin cell adhesion molecule 2,protein_coding,0.4295916112955035,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000145741,BTF3,basic transcription factor 3,protein_coding,0.4295736073846416,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000010322,NISCH,nischarin,protein_coding,0.4270989636257116,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000090060,PAPOLA,poly(A) polymerase alpha,protein_coding,0.4268370269495066,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000030066,NUP160,nucleoporin 160,protein_coding,0.426506910931603,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000150712,MTMR12,myotubularin related protein 12,protein_coding,0.4253095050669199,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000163788,SNRK,SNF related kinase,protein_coding,0.4247704598167648,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000143171,RXRG,retinoid X receptor gamma,protein_coding,0.4244641722495671,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000102468,HTR2A,5-hydroxytryptamine receptor 2A,protein_coding,0.42380304595372,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000115112,TFCP2L1,transcription factor CP2 like 1,protein_coding,0.4236649230410255,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000108219,TSPAN14,tetraspanin 14,protein_coding,0.4234031459768645,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000186318,BACE1,beta-secretase 1,protein_coding,0.4227334364529774,2,0,2,0,2,low,reliable,checked_with_mentions
+ENSG00000155657,TTN,titin,protein_coding,0.4226250600916321,0,0,0,0,0,moderate,not_detected,checked_zero_mentions
+ENSG00000031823,RANBP3,RAN binding protein 3,protein_coding,0.4224839949304148,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000052344,PRSS8,serine protease 8,protein_coding,0.4223067864061274,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000104643,MTMR9,myotubularin related protein 9,protein_coding,0.4220482867824836,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000065000,AP3D1,adaptor related protein complex 3 subunit delta 1,protein_coding,0.418407554927161,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000167658,EEF2,eukaryotic translation elongation factor 2,protein_coding,0.4158359834280103,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000171408,PDE7B,phosphodiesterase 7B,protein_coding,0.4157743546151053,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000112425,EPM2A,"EPM2A glucan phosphatase, laforin",protein_coding,0.4142010293825119,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000160948,VPS28,VPS28 subunit of ESCRT-I,protein_coding,0.4139845755848841,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000143398,PIP5K1A,phosphatidylinositol-4-phosphate 5-kinase type 1 alpha,protein_coding,0.4138555974623084,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000158748,HTR6,5-hydroxytryptamine receptor 6,protein_coding,0.4135650350240977,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000127415,IDUA,alpha-L-iduronidase,protein_coding,0.412711655541583,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000127184,COX7C,cytochrome c oxidase subunit 7C,protein_coding,0.4123983991891219,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000066336,SPI1,Spi-1 proto-oncogene,protein_coding,0.41094073650748,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000179335,CLK3,CDC like kinase 3,protein_coding,0.4103618272911923,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000132170,PPARG,peroxisome proliferator activated receptor gamma,protein_coding,0.4099219073569957,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000152782,PANK1,pantothenate kinase 1,protein_coding,0.4095639754869144,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000171873,ADRA1D,adrenoceptor alpha 1D,protein_coding,0.4095547468584312,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000170214,ADRA1B,adrenoceptor alpha 1B,protein_coding,0.4085001119780113,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000008516,MMP25,matrix metallopeptidase 25,protein_coding,0.4082922528657468,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000115828,QPCT,glutaminyl-peptide cyclotransferase,protein_coding,0.4051419086426055,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000182578,CSF1R,colony stimulating factor 1 receptor,protein_coding,0.4049383278664958,3,1,1,1,2,low,reliable,checked_with_mentions
+ENSG00000120162,MOB3B,MOB kinase activator 3B,protein_coding,0.4042811916258526,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000073756,PTGS2,prostaglandin-endoperoxide synthase 2,protein_coding,0.4035408132699506,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000184588,PDE4B,phosphodiesterase 4B,protein_coding,0.4030723216307156,0,2,0,1,-2,low,reliable,checked_with_mentions
+ENSG00000111837,MAK,male germ cell associated kinase,protein_coding,0.4029718928579058,0,0,0,0,0,moderate,not_detected,checked_zero_mentions
+ENSG00000140945,CDH13,cadherin 13,protein_coding,0.4027720462129512,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000091140,DLD,dihydrolipoamide dehydrogenase,protein_coding,0.402302758914465,0,0,0,0,0,moderate,not_detected,checked_zero_mentions
+ENSG00000071243,ING3,inhibitor of growth family member 3,protein_coding,0.4022551619305217,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000197361,FBXL22,F-box and leucine rich repeat protein 22,protein_coding,0.4002942398742502,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000117362,APH1A,aph-1A gamma-secretase subunit,protein_coding,0.4001322170938158,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000164181,ELOVL7,ELOVL fatty acid elongase 7,protein_coding,0.3996132613206611,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000204256,BRD2,bromodomain containing 2,protein_coding,0.3993750800684569,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000113048,MRPS27,mitochondrial ribosomal protein S27,protein_coding,0.3990445841661311,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000118260,CREB1,cAMP responsive element binding protein 1,protein_coding,0.3978902718085687,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000166912,MTMR10,myotubularin related protein 10,protein_coding,0.3977625482383899,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000172977,KAT5,lysine acetyltransferase 5,protein_coding,0.3969319892464673,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000100300,TSPO,translocator protein,protein_coding,0.3955788313235772,0,2,0,1,-2,low,reliable,checked_with_mentions
+ENSG00000148429,USP6NL,USP6 N-terminal like,protein_coding,0.3954354931965726,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000163288,GABRB1,gamma-aminobutyric acid type A receptor subunit beta1,protein_coding,0.395116580946711,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000146648,EGFR,epidermal growth factor receptor,protein_coding,0.3947339723918066,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000005379,TSPOAP1,TSPO associated protein 1,protein_coding,0.3946112765967388,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000120907,ADRA1A,adrenoceptor alpha 1A,protein_coding,0.3928133293392252,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000173039,RELA,"RELA proto-oncogene, NF-kB subunit",protein_coding,0.3927377590756798,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000156467,UQCRB,ubiquinol-cytochrome c reductase binding protein,protein_coding,0.3924867453854369,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000161929,SCIMP,SLP adaptor and CSK interacting membrane protein,protein_coding,0.3913679294647975,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000060566,CREB3L3,cAMP responsive element binding protein 3 like 3,protein_coding,0.3913314553340502,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000128923,MINDY2,MINDY lysine 48 deubiquitinase 2,protein_coding,0.3899681373582496,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000174469,CNTNAP2,contactin associated protein 2,protein_coding,0.3896089490907917,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000261371,PECAM1,platelet and endothelial cell adhesion molecule 1,protein_coding,0.3891678356965384,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000162736,NCSTN,nicastrin,protein_coding,0.3890319061743018,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000160191,PDE9A,phosphodiesterase 9A,protein_coding,0.3887550772748388,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000107249,GLIS3,GLIS family zinc finger 3,protein_coding,0.3883872971125877,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000177606,JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",protein_coding,0.3883635090639488,0,0,0,0,0,moderate,not_detected,checked_zero_mentions
+ENSG00000160789,LMNA,lamin A/C,protein_coding,0.3880992162143042,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000102870,ZNF629,zinc finger protein 629,protein_coding,0.3875599337289517,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000213380,COG8,component of oligomeric golgi complex 8,protein_coding,0.3873044681666114,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000117450,PRDX1,peroxiredoxin 1,protein_coding,0.3871005489038768,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000177169,ULK1,unc-51 like autophagy activating kinase 1,protein_coding,0.3867747660053675,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000162909,CAPN2,calpain 2,protein_coding,0.3865689541821671,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000196924,FLNA,filamin A,protein_coding,0.3863048961858492,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000173145,NOC3L,NOC3 like DNA replication regulator,protein_coding,0.3856338193083906,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000135047,CTSL,cathepsin L,protein_coding,0.3845392745093205,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000205155,PSENEN,"presenilin enhancer, gamma-secretase subunit",protein_coding,0.3842460074978423,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000140009,ESR2,estrogen receptor 2,protein_coding,0.3838728168114332,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000198740,ZNF652,zinc finger protein 652,protein_coding,0.383294799860903,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000067057,PFKP,"phosphofructokinase, platelet",protein_coding,0.3831423645300136,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000132670,PTPRA,protein tyrosine phosphatase receptor type A,protein_coding,0.3829210564298622,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000106261,ZKSCAN1,zinc finger with KRAB and SCAN domains 1,protein_coding,0.3827952299673144,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000175592,FOSL1,"FOS like 1, AP-1 transcription factor subunit",protein_coding,0.3823325823443008,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000120053,GOT1,glutamic-oxaloacetic transaminase 1,protein_coding,0.3820963803324482,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000174672,BRSK2,BR serine/threonine kinase 2,protein_coding,0.3816725508350581,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000166926,MS4A6E,membrane spanning 4-domains A6E,protein_coding,0.3814978751149414,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000113580,NR3C1,nuclear receptor subfamily 3 group C member 1,protein_coding,0.3812131987277117,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000138378,STAT4,signal transducer and activator of transcription 4,protein_coding,0.3812122324405845,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000153113,CAST,calpastatin,lncRNA,0.3807409956883003,1,0,1,0,1,low,reliable,checked_with_mentions
+ENSG00000131042,LILRB2,leukocyte immunoglobulin like receptor B2,protein_coding,0.3802186674438049,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000168038,ULK4,unc-51 like kinase 4,protein_coding,0.380090299011133,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000086991,NOX4,NADPH oxidase 4,protein_coding,0.379211837133377,2,0,1,0,2,low,reliable,checked_with_mentions
+ENSG00000014216,CAPN1,calpain 1,protein_coding,0.3789290150313411,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000112742,TTK,TTK protein kinase,protein_coding,0.3779085514517349,0,0,0,0,0,moderate,not_detected,checked_zero_mentions
+ENSG00000072310,SREBF1,sterol regulatory element binding transcription factor 1,protein_coding,0.3777040188935435,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000186868,MAPT,microtubule associated protein tau,protein_coding,0.3772403441193385,5,0,3,0,5,low,reliable,checked_with_mentions
+ENSG00000164045,CDC25A,cell division cycle 25A,protein_coding,0.3769139126634551,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000128463,EMC4,ER membrane protein complex subunit 4,protein_coding,0.3768973652072784,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000100596,SPTLC2,serine palmitoyltransferase long chain base subunit 2,protein_coding,0.37642395557408,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000095303,PTGS1,prostaglandin-endoperoxide synthase 1,protein_coding,0.3763279919860416,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000068366,ACSL4,acyl-CoA synthetase long chain family member 4,protein_coding,0.3761935696288,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000086062,B4GALT1,"beta-1,4-galactosyltransferase 1",protein_coding,0.3761302982952405,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000151092,NGLY1,N-glycanase 1,protein_coding,0.3760521487473967,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000135312,HTR1B,5-hydroxytryptamine receptor 1B,protein_coding,0.3758601907209984,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000145217,SLC26A1,solute carrier family 26 member 1,protein_coding,0.375289443952889,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000120910,PPP3CC,protein phosphatase 3 catalytic subunit gamma,protein_coding,0.3743178305542711,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000181830,SLC35C1,solute carrier family 35 member C1,protein_coding,0.3742355031832924,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000164916,FOXK1,forkhead box K1,protein_coding,0.3735578612417752,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000113368,LMNB1,lamin B1,protein_coding,0.3734388983292287,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000149177,PTPRJ,protein tyrosine phosphatase receptor type J,protein_coding,0.3731573768374952,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000151490,PTPRO,protein tyrosine phosphatase receptor type O,protein_coding,0.3730433881061069,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000126247,CAPNS1,calpain small subunit 1,protein_coding,0.3729426481573647,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000108384,RAD51C,RAD51 paralog C,protein_coding,0.3729372959513634,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000077150,NFKB2,nuclear factor kappa B subunit 2,protein_coding,0.3729363330323488,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000164896,FASTK,Fas activated serine/threonine kinase,protein_coding,0.3729016225697163,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000165264,NDUFB6,NADH:ubiquinone oxidoreductase subunit B6,protein_coding,0.3728326796236908,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000172273,HINFP,histone H4 transcription factor,protein_coding,0.3727161441788117,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000167110,GOLGA2,golgin A2,protein_coding,0.3726445709526627,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000169136,ATF5,activating transcription factor 5,protein_coding,0.3726442876464624,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000175489,LRRC25,leucine rich repeat containing 25,protein_coding,0.3721767585612213,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000146674,IGFBP3,insulin like growth factor binding protein 3,protein_coding,0.3721671663850427,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000136451,VEZF1,vascular endothelial zinc finger 1,protein_coding,0.3721669136674946,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000169676,DRD5,dopamine receptor D5,protein_coding,0.3721010277826577,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000164344,KLKB1,kallikrein B1,protein_coding,0.3720745187038235,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000158402,CDC25C,cell division cycle 25C,protein_coding,0.3720002916069885,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000111725,PRKAB1,protein kinase AMP-activated non-catalytic subunit beta 1,protein_coding,0.3719639872934598,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000151612,ZNF827,zinc finger protein 827,protein_coding,0.3718194048251855,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000178950,GAK,cyclin G associated kinase,protein_coding,0.3717986052219811,0,0,0,0,0,moderate,not_detected,checked_zero_mentions
+ENSG00000069431,ABCC9,ATP binding cassette subfamily C member 9,protein_coding,0.3716659229282266,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000141959,PFKL,"phosphofructokinase, liver type",protein_coding,0.3716343593630011,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000136504,KAT7,lysine acetyltransferase 7,protein_coding,0.3716263148599978,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000157404,KIT,"KIT proto-oncogene, receptor tyrosine kinase",protein_coding,0.371473720699531,0,0,0,0,0,moderate,not_detected,checked_zero_mentions
+ENSG00000256812,CAPNS2,calpain small subunit 2,protein_coding,0.3714277539581253,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000133030,MPRIP,myosin phosphatase Rho interacting protein,protein_coding,0.3712599698262256,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000175344,CHRNA7,cholinergic receptor nicotinic alpha 7 subunit,protein_coding,0.3712518221378517,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000112983,BRD8,bromodomain containing 8,protein_coding,0.3710966720049702,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000096401,CDC5L,cell division cycle 5 like,protein_coding,0.370860551542255,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000013293,SLC7A14,solute carrier family 7 member 14,protein_coding,0.3707910207621442,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000103811,CTSH,cathepsin H,protein_coding,0.3706060572053957,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000105426,PTPRS,protein tyrosine phosphatase receptor type S,protein_coding,0.37036636998273,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000123643,SLC36A1,solute carrier family 36 member 1,protein_coding,0.3702266194304,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000153046,CDYL,chromodomain Y like,protein_coding,0.3699494345393864,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000115844,DLX2,distal-less homeobox 2,protein_coding,0.3699494345393864,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000140990,NDUFB10,NADH:ubiquinone oxidoreductase subunit B10,protein_coding,0.3699494345393864,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000113282,CLINT1,clathrin interactor 1,protein_coding,0.3697919952539438,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000065615,CYB5R4,cytochrome b5 reductase 4,protein_coding,0.3696033747544286,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000263001,GTF2I,general transcription factor IIi,protein_coding,0.3695798546847018,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000159792,PSKH1,protein serine kinase H1,protein_coding,0.3695798546847018,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000137411,VARS2,"valyl-tRNA synthetase 2, mitochondrial",protein_coding,0.3695798546847018,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000104980,TIMM44,translocase of inner mitochondrial membrane 44,protein_coding,0.3695798546847018,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000144161,ZC3H8,zinc finger CCCH-type containing 8,protein_coding,0.3695798546847018,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000143748,NVL,nuclear VCP like,protein_coding,0.3695798546847018,0,0,0,0,0,moderate,not_detected,checked_zero_mentions
+ENSG00000154832,CXXC1,CXXC finger protein 1,protein_coding,0.3695798546847018,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000065559,MAP2K4,mitogen-activated protein kinase kinase 4,protein_coding,0.3693919607558185,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000105568,PPP2R1A,protein phosphatase 2 scaffold subunit Aalpha,protein_coding,0.3692404691467815,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000115648,MLPH,melanophilin,protein_coding,0.369233794899744,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000196950,SLC39A10,solute carrier family 39 member 10,protein_coding,0.3690531928092463,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000116906,GNPAT,glyceronephosphate O-acyltransferase,protein_coding,0.3680043404928123,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000100151,PICK1,protein interacting with PRKCA 1,protein_coding,0.3679156855615358,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000076984,MAP2K7,mitogen-activated protein kinase kinase 7,protein_coding,0.3679105814908279,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000188778,ADRB3,adrenoceptor beta 3,protein_coding,0.3676626170066913,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000112164,GLP1R,glucagon like peptide 1 receptor,protein_coding,0.3676234859493767,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000113721,PDGFRB,platelet derived growth factor receptor beta,protein_coding,0.3670188793874623,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000066855,MTFR1,mitochondrial fission regulator 1,protein_coding,0.3660499962091249,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000144579,CTDSP1,CTD small phosphatase 1,protein_coding,0.3656350097459279,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000115355,CCDC88A,coiled-coil and HOOK domain protein 88A,protein_coding,0.3648508704560153,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000138600,SPPL2A,signal peptide peptidase like 2A,protein_coding,0.3645122893630986,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000196154,S100A4,S100 calcium binding protein A4,protein_coding,0.3641619795141552,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000140836,ZFHX3,zinc finger homeobox 3,protein_coding,0.3640003834245561,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000187116,LILRA5,leukocyte immunoglobulin like receptor A5,protein_coding,0.3635765891806877,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000091831,ESR1,estrogen receptor 1,protein_coding,0.363562141683785,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000214787,MS4A4E,membrane spanning 4-domains A4E,protein_coding,0.3635467622674651,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000132313,MRPL35,mitochondrial ribosomal protein L35,protein_coding,0.3633252739296935,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000129351,ILF3,interleukin enhancer binding factor 3,protein_coding,0.3630886529060564,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000168874,ATOH8,atonal bHLH transcription factor 8,protein_coding,0.3627050559718277,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000116199,FAM20B,FAM20B glycosaminoglycan xylosylkinase,protein_coding,0.3622962682225441,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000131174,COX7B,cytochrome c oxidase subunit 7B,protein_coding,0.3621630702603905,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000163686,ABHD6,"abhydrolase domain containing 6, acylglycerol lipase",protein_coding,0.3616370508185793,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000188906,LRRK2,leucine rich repeat kinase 2,protein_coding,0.3615993868238931,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000127022,CANX,calnexin,protein_coding,0.3615993404555438,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000123992,DNPEP,aspartyl aminopeptidase,protein_coding,0.3602282692413797,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000147246,HTR2C,5-hydroxytryptamine receptor 2C,protein_coding,0.3598560754473065,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000115946,PNO1,partner of NOB1 homolog,protein_coding,0.3596732919352649,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000073008,PVR,PVR cell adhesion molecule,protein_coding,0.3596586826147091,0,0,0,0,0,moderate,not_detected,checked_zero_mentions
+ENSG00000185009,AP3M1,adaptor related protein complex 3 subunit mu 1,protein_coding,0.3594095659601249,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000156873,PHKG2,phosphorylase kinase catalytic subunit gamma 2,protein_coding,0.3594094408538857,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000213639,PPP1CB,protein phosphatase 1 catalytic subunit beta,protein_coding,0.3587941134874355,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000068078,FGFR3,fibroblast growth factor receptor 3,protein_coding,0.3587599808568034,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000146555,SDK1,sidekick cell adhesion molecule 1,protein_coding,0.3580625442761583,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000165304,MELK,maternal embryonic leucine zipper kinase,protein_coding,0.357917934257241,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000112232,KHDRBS2,"KH RNA binding domain containing, signal transduction associated 2",protein_coding,0.3571730144094509,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000123374,CDK2,cyclin dependent kinase 2,protein_coding,0.356140387090375,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000135346,CGA,"glycoprotein hormones, alpha polypeptide",protein_coding,0.355904638432019,0,0,0,0,0,moderate,not_detected,checked_zero_mentions
+ENSG00000168538,TRAPPC11,trafficking protein particle complex subunit 11,protein_coding,0.3558960059418849,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000149968,MMP3,matrix metallopeptidase 3,protein_coding,0.3558028555127023,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000196367,TRRAP,transformation/transcription domain associated protein,protein_coding,0.3553723310589115,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000136950,ARPC5L,actin related protein 2/3 complex subunit 5 like,protein_coding,0.3542942176554161,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000164256,PRDM9,PR/SET domain 9,protein_coding,0.3540807440074534,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000141837,CACNA1A,calcium voltage-gated channel subunit alpha1 A,protein_coding,0.353942611273208,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000105647,PIK3R2,phosphoinositide-3-kinase regulatory subunit 2,protein_coding,0.3537397425855842,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000168243,GNG4,G protein subunit gamma 4,protein_coding,0.353653976663281,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000143437,ARNT,aryl hydrocarbon receptor nuclear translocator,protein_coding,0.3536173540683,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000108091,CCDC6,coiled-coil domain containing 6,protein_coding,0.353461592270713,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000120915,EPHX2,epoxide hydrolase 2,protein_coding,0.3534262468160848,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000115042,FAHD2A,fumarylacetoacetate hydrolase domain containing 2A,protein_coding,0.3532027959516248,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000165629,ATP5F1C,ATP synthase F1 subunit gamma,protein_coding,0.351647124189667,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000171475,WIPF2,WAS/WASL interacting protein family member 2,protein_coding,0.3516340309260151,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000130227,XPO7,exportin 7,protein_coding,0.3509544943990913,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000123595,RAB9A,"RAB9A, member RAS oncogene family",protein_coding,0.3507298818928321,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000131446,MGAT1,"alpha-1,3-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase",protein_coding,0.3501686449018109,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000174173,TRMT10C,"tRNA methyltransferase 10C, mitochondrial RNase P subunit",protein_coding,0.3497310473358956,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000176974,SHMT1,serine hydroxymethyltransferase 1,protein_coding,0.3494039797522333,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000100599,RIN3,Ras and Rab interactor 3,protein_coding,0.3491956002022905,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000008118,CAMK1G,calcium/calmodulin dependent protein kinase IG,protein_coding,0.3489596391372049,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000105737,GRIK5,glutamate ionotropic receptor kainate type subunit 5,protein_coding,0.3487457973087208,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000088538,DOCK3,dedicator of cytokinesis 3,protein_coding,0.3484394504684469,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000241553,ARPC4,actin related protein 2/3 complex subunit 4,protein_coding,0.3482020615899742,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000148143,ZNF462,zinc finger protein 462,protein_coding,0.3478689295539769,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000088367,EPB41L1,erythrocyte membrane protein band 4.1 like 1,protein_coding,0.3473817121259607,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000203879,GDI1,GDP dissociation inhibitor 1,protein_coding,0.3472359932121279,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000084674,APOB,apolipoprotein B,protein_coding,0.3470718671586195,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000173198,CYSLTR1,cysteinyl leukotriene receptor 1,protein_coding,0.3469609741136041,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000112685,EXOC2,exocyst complex component 2,protein_coding,0.3468741889890648,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000058272,PPP1R12A,protein phosphatase 1 regulatory subunit 12A,protein_coding,0.3464628424826894,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000152266,PTH,parathyroid hormone,protein_coding,0.3463095452476828,0,0,0,0,0,moderate,not_detected,checked_zero_mentions
+ENSG00000177374,HIC1,HIC ZBTB transcriptional repressor 1,protein_coding,0.3461373311272977,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000102575,ACP5,"acid phosphatase 5, tartrate resistant",protein_coding,0.345760041087921,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000105664,COMP,cartilage oligomeric matrix protein,protein_coding,0.3455310913417511,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000164258,NDUFS4,NADH:ubiquinone oxidoreductase subunit S4,protein_coding,0.3455255972037469,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000147862,NFIB,nuclear factor I B,protein_coding,0.3444103367444363,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000170442,KRT86,keratin 86,protein_coding,0.3438370700217122,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000117408,IPO13,importin 13,protein_coding,0.3436079785515809,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000189171,S100A13,S100 calcium binding protein A13,protein_coding,0.3434574362388576,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000135077,HAVCR2,hepatitis A virus cellular receptor 2,protein_coding,0.3434472094193465,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000125826,RBCK1,RANBP2-type and C3HC4-type zinc finger containing 1,protein_coding,0.3432715563490918,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000120254,MTHFD1L,methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 1 like,protein_coding,0.343223138447102,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000013364,MVP,major vault protein,protein_coding,0.3430168666212198,0,0,0,0,0,moderate,not_detected,checked_zero_mentions
+ENSG00000198453,ZNF568,zinc finger protein 568,protein_coding,0.3427665943700876,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000105974,CAV1,caveolin 1,protein_coding,0.3427351887557205,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000149357,LAMTOR1,"late endosomal/lysosomal adaptor, MAPK and MTOR activator 1",protein_coding,0.3427122666203425,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000164093,PITX2,paired like homeodomain 2,protein_coding,0.3422160442487135,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000161281,COX7A1,cytochrome c oxidase subunit 7A1,protein_coding,0.3416210808723567,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000160712,IL6R,interleukin 6 receptor,protein_coding,0.3414625383994451,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000168067,MAP4K2,mitogen-activated protein kinase kinase kinase kinase 2,protein_coding,0.3412192820862916,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000132744,ACY3,aminoacylase 3,protein_coding,0.3409417296207375,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000163545,NUAK2,NUAK family kinase 2,protein_coding,0.3404797548023816,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000099822,HCN2,hyperpolarization activated cyclic nucleotide gated potassium and sodium channel 2,protein_coding,0.340069955012476,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000205629,LCMT1,leucine carboxyl methyltransferase 1,protein_coding,0.3398662732157597,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000174279,EVX2,even-skipped homeobox 2,protein_coding,0.3395075925815459,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000272333,KMT2B,lysine methyltransferase 2B,protein_coding,0.3387230998098647,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000137265,IRF4,interferon regulatory factor 4,protein_coding,0.338695006419692,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000138801,PAPSS1,3'-phosphoadenosine 5'-phosphosulfate synthase 1,protein_coding,0.3386840366563467,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000132470,ITGB4,integrin subunit beta 4,protein_coding,0.3386400752636963,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000010361,FUZ,fuzzy planar cell polarity protein,protein_coding,0.3385755134989058,0,0,0,0,0,moderate,not_detected,checked_zero_mentions
+ENSG00000136999,CCN3,cellular communication network factor 3,protein_coding,0.3383426939640305,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000188290,HES4,hes family bHLH transcription factor 4,protein_coding,0.3383062914097251,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000185129,PURA,purine rich element binding protein A,protein_coding,0.3379851788730397,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000089225,TBX5,T-box transcription factor 5,protein_coding,0.3375820678355322,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000112062,MAPK14,mitogen-activated protein kinase 14,protein_coding,0.3368751347119413,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000204435,CSNK2B,casein kinase 2 beta,protein_coding,0.3368264751097014,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000066926,FECH,ferrochelatase,protein_coding,0.3365518567454565,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000128294,TPST2,tyrosylprotein sulfotransferase 2,protein_coding,0.3363062178226262,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000102974,CTCF,CCCTC-binding factor,protein_coding,0.3362905146276277,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000149485,FADS1,fatty acid desaturase 1,protein_coding,0.3359182185978045,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000054282,SDCCAG8,SHH signaling and ciliogenesis regulator SDCCAG8,protein_coding,0.3356381588885238,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000143032,BARHL2,BarH like homeobox 2,protein_coding,0.3354736707651707,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000155511,GRIA1,glutamate ionotropic receptor AMPA type subunit 1,protein_coding,0.3353907949231281,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000239789,MRPS17,mitochondrial ribosomal protein S17,protein_coding,0.3353350867688459,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000103202,NME4,NME/NM23 nucleoside diphosphate kinase 4,protein_coding,0.3344110213993561,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000119919,NKX2-3,NK2 homeobox 3,protein_coding,0.3336482470041637,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000154845,PPP4R1,protein phosphatase 4 regulatory subunit 1,protein_coding,0.3336296726270033,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000008311,AASS,aminoadipate-semialdehyde synthase,protein_coding,0.3334932367784216,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000148737,TCF7L2,transcription factor 7 like 2,protein_coding,0.3330098022515663,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000137193,PIM1,"Pim-1 proto-oncogene, serine/threonine kinase",protein_coding,0.3325887737326484,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000153707,PTPRD,protein tyrosine phosphatase receptor type D,protein_coding,0.3324935283896746,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000011405,PIK3C2A,phosphatidylinositol-4-phosphate 3-kinase catalytic subunit type 2 alpha,protein_coding,0.3324602747263935,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000117298,ECE1,endothelin converting enzyme 1,protein_coding,0.3322772595460829,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000086015,MAST2,microtubule associated serine/threonine kinase 2,protein_coding,0.3322585928905993,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000170425,ADORA2B,adenosine A2b receptor,protein_coding,0.3322410277659189,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000150630,VEGFC,vascular endothelial growth factor C,protein_coding,0.3320119471469555,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000147642,SYBU,syntabulin,protein_coding,0.3319018391900601,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000105204,DYRK1B,dual specificity tyrosine phosphorylation regulated kinase 1B,protein_coding,0.3318026510187709,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000138622,HCN4,hyperpolarization activated cyclic nucleotide gated potassium channel 4,protein_coding,0.3316954444374896,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000120805,ARL1,ARF like GTPase 1,protein_coding,0.3316511254410985,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000151729,SLC25A4,solute carrier family 25 member 4,protein_coding,0.3316258673640458,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000132153,DHX30,DExH-box helicase 30,protein_coding,0.3314760031529506,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000100490,CDKL1,cyclin dependent kinase like 1,protein_coding,0.3313504021375494,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000125868,DSTN,"destrin, actin depolymerizing factor",protein_coding,0.3313034261997742,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000101670,LIPG,"lipase G, endothelial type",protein_coding,0.3312463392360888,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000122420,PTGFR,prostaglandin F receptor,protein_coding,0.3310322243415973,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000120903,CHRNA2,cholinergic receptor nicotinic alpha 2 subunit,protein_coding,0.3308928507246233,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000065526,SPEN,spen family transcriptional repressor,protein_coding,0.3308266271014359,0,0,0,0,0,low,not_detected,checked_zero_mentions
+ENSG00000029725,RABEP1,"rabaptin, RAB GTPase binding effector protein 1",protein_coding,0.3306634058029142,0,0,0,0,0,low,not_detected,checked_zero_mentions

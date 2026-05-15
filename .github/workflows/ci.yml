@@ -1,0 +1,104 @@
+# NeuroGraph Agent — CI
+# Lightweight project structure and import validation.
+# Does NOT call external APIs, rerun the pipeline, or access any data sources.
+
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    name: Validate structure, imports, and syntax
+    runs-on: ubuntu-latest
+
+    steps:
+      # ── 1. Check out repository ─────────────────────────────────────────────
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      # ── 2. Set up Python ────────────────────────────────────────────────────
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      # ── 3. Install dependencies ─────────────────────────────────────────────
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # ── 4. Check required project files exist ───────────────────────────────
+      - name: Check required files exist
+        run: |
+          files=(
+            "app.py"
+            "requirements.txt"
+            "README.md"
+            "Data/processed/research_gap_scores.csv"
+            "Data/processed/target_evidence_cards.csv"
+            "Data/processed/knowledge_graph_nodes.csv"
+            "Data/processed/knowledge_graph_edges.csv"
+            "outputs/reports/gap_scoring_summary.md"
+            "outputs/reports/knowledge_graph_summary.md"
+          )
+          all_ok=true
+          for f in "${files[@]}"; do
+            if [ -f "$f" ]; then
+              echo "  OK  $f"
+            else
+              echo "  MISSING  $f"
+              all_ok=false
+            fi
+          done
+          if [ "$all_ok" = false ]; then
+            echo ""
+            echo "One or more required files are missing. Commit all pipeline outputs before pushing."
+            exit 1
+          fi
+
+      # ── 5. Import check ─────────────────────────────────────────────────────
+      - name: Import check — core libraries
+        run: |
+          python - <<'EOF'
+          import pandas
+          import numpy
+          import sklearn
+          import networkx
+          import streamlit
+          print(f"  pandas     {pandas.__version__}")
+          print(f"  numpy      {numpy.__version__}")
+          print(f"  sklearn    {sklearn.__version__}")
+          print(f"  networkx   {networkx.__version__}")
+          print(f"  streamlit  {streamlit.__version__}")
+          print("All core imports OK")
+          EOF
+
+      # ── 6. Syntax check — app.py ────────────────────────────────────────────
+      - name: Syntax check — app.py
+        run: |
+          python -m py_compile app.py
+          echo "  OK  app.py"
+
+      # ── 7. Syntax check — src/processing/ ──────────────────────────────────
+      - name: Syntax check — src/processing/
+        run: |
+          for f in src/processing/*.py; do
+            python -m py_compile "$f"
+            echo "  OK  $f"
+          done
+
+      # ── 8. Syntax check — src/dashboard/ ───────────────────────────────────
+      - name: Syntax check — src/dashboard/
+        run: |
+          for f in src/dashboard/*.py; do
+            python -m py_compile "$f"
+            echo "  OK  $f"
+          done
+
+      # ── 9. Project structure tests ──────────────────────────────────────────
+      - name: Run project structure tests
+        run: pytest tests/test_project_structure.py -v --tb=short

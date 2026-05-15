@@ -1,0 +1,31 @@
+term,score,source
+cognitive,0.04202742072155594,clinical_trials
+safety,0.038066222810262715,clinical_trials
+mild,0.037376259134611095,clinical_trials
+dementia,0.036712812763336364,clinical_trials
+brain,0.03115202333788928,clinical_trials
+evaluate,0.030537045151725777,clinical_trials
+efficacy,0.029976080291861076,clinical_trials
+subjects,0.02675442511449794,clinical_trials
+moderate,0.025276042331383832,clinical_trials
+purpose,0.023943085262627433,clinical_trials
+impairment,0.023469252906701453,clinical_trials
+mild moderate,0.023278421522591252,clinical_trials
+cognitive impairment,0.022116029759861495,clinical_trials
+early,0.021763823716865683,clinical_trials
+tolerability,0.021566586911053363,clinical_trials
+care,0.020508701054214734,clinical_trials
+safety tolerability,0.01994046127873702,clinical_trials
+memory,0.019492763688761287,clinical_trials
+healthy,0.018718074947214735,clinical_trials
+amyloid,0.0183866638329833,clinical_trials
+imaging,0.018183915157662763,clinical_trials
+risk,0.017809914209862714,clinical_trials
+mild cognitive,0.017626051358729973,clinical_trials
+pet,0.017397774184814883,clinical_trials
+dose,0.017311466397566627,clinical_trials
+using,0.0170037936916625,clinical_trials
+determine,0.01652863063000777,clinical_trials
+controlled,0.016347820477471246,clinical_trials
+assess,0.016316961437569225,clinical_trials
+adults,0.01610242720344939,clinical_trials
